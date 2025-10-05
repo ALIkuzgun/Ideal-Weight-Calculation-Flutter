@@ -1,16 +1,16 @@
-# ideal_weight
+#Ideal Weight and BMI Calculator#
 
-A new Flutter project.
+A Flutter app that allows users to see their ideal weight and BMI based on their height, gender, and weight.
 
-## Getting Started
+#Features#
 
-This project is a starting point for a Flutter application.
+View your ideal weight
 
-A few resources to get you started if this is your first Flutter project:
+View your BMI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Available for both Android and web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Screenshots#
+
+https://github.com/user-attachments/assets/2e97d456-217d-474e-b4c0-d326d21a4cbc
+
